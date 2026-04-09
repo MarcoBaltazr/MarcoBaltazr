@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Marco Baltazar!
 
 💻 Full Stack Developer focused on **backend development with Python and Django**.  
-🔧 Currently working as a **Full Stack Developer at eSolvere Tecnologia**, building web systems, RESTful APIs, and real-time monitoring dashboards.  
+🔧 Currently working as a **Software Engineer at eSolvere Tecnologia**, building web systems, RESTful APIs, and real-time monitoring dashboards.  
 🚀 Passionate about **scalable applications, data-driven solutions, and clean code**.  
 
 ---
